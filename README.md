@@ -12,9 +12,13 @@ Welcome to my PowerBI document showcase! This repository contains a collection o
 
 💼 Included Reports
 
-- [Project 1: Tipped Employee Wages](https://github.com/PedroDeS/PowerBi/blob/2024-Massachusetts-Ballot-Question-5/MA%20Ballot%20Questions/5%20Tipped%20Wage/Tipped%20Employee%20Wages.pbix)
+- [Project 1: Tipped Employee Wages](https://github.com/PedroDeS/PowerBi/blob/main/MA%20Ballot%20Questions/5%20Tipped%20Wage/Tipped%20Employee%20Wages.pdf)
   - A detailed report analyzing the impact of minimum wage changes on tipped employees in Massachusetts and other states.
 
+- [Project 2: Sales Potential Earnings Report](https://github.com/PedroDeS/PowerBi/blob/main/Sales%20Potential%20Earnings%20Report/Sales%20Potential%20Earnings%20Report.pdf)
+  - A prescriptive report is designed to act as a "Check Engine Light" for stakeholders, offering a clear overview of sales performance across different brands, regions, and stores.
+
+    
 📄 License and Usage
 
 You are free to download, use, and modify these files for personal or commercial purposes. However, **I kindly request that you give credit by linking back to this GitHub repository** if you find my work helpful. It helps others discover these resources and acknowledges the time and effort I've invested.
