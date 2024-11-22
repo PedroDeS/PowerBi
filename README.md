@@ -2,15 +2,8 @@
 
 Welcome to my PowerBI document showcase! This repository contains a collection of PowerBI reports and dashboards that I've created. Feel free to browse, download, and use them as you'd like to support your own projects.
 
-🚀 Getting Started
 
-1. Clone or download this repository to access the PowerBI files.
-2. Open the `.pbix` files in PowerBI Desktop.
-3. Verify data integrity with included data sources.
-4. Modify the reports as needed to fit your data or specific use cases.
-5. Enjoy the insights!
-
-💼 Included Reports
+💼 View Reports as PDFs
 
 - [Project 1: Tipped Employee Wages](https://github.com/PedroDeS/PowerBi/blob/main/MA%20Ballot%20Questions/5%20Tipped%20Wage/Tipped%20Employee%20Wages.pdf)
   - A detailed report analyzing the impact of minimum wage changes on tipped employees in Massachusetts and other states.
@@ -18,6 +11,13 @@ Welcome to my PowerBI document showcase! This repository contains a collection o
 - [Project 2: Sales Potential Earnings Report](https://github.com/PedroDeS/PowerBi/blob/main/Sales%20Potential%20Earnings%20Report/Sales%20Potential%20Earnings%20Report.pdf)
   - A prescriptive report is designed to act as a "Check Engine Light" for stakeholders, offering a clear overview of sales performance across different brands, regions, and stores.
 
+🚀 Getting Started
+
+1. Clone or download this repository to access the PowerBI files.
+2. Open the `.pbix` files in PowerBI Desktop.
+3. Verify data integrity with included data sources.
+4. Modify the reports as needed to fit your data or specific use cases.
+5. Enjoy the insights!
     
 📄 License and Usage
 
